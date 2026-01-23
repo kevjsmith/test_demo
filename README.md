@@ -1,2 +1,2 @@
-# Sample Readme file
-testing new git repo 
+# Sample Readme File
+testing new git repo. 
